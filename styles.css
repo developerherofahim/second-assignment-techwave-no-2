@@ -421,6 +421,7 @@ footer{
      ;
     gap: 30px;
     align-items: center;
+    justify-content: center;
     margin: 0 auto;
     max-width: 75%;
     margin-top: 40px;
@@ -542,5 +543,8 @@ footer{
     justify-content: space-between;
     gap: 24px;
     max-width: 60%;
+}
+.hamburger{
+    display: block;
 }
 }
