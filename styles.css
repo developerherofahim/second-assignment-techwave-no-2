@@ -79,7 +79,7 @@
     display: none;
 }
 .banner{
-background: url("/assets/hero-bg.png");
+background: url("./assets/hero-bg.png");
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -517,7 +517,7 @@ br{
     box-shadow: 0px 3px 27px 0 rgba(0, 255, 136, 0.5);
 }
 footer{
-    background: url("/assets/footer-bg.png");
+    background: url("./assets/footer-bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
