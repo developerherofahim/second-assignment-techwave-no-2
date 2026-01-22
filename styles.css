@@ -368,7 +368,7 @@ iframe{
     align-items: center;
 }
 footer{
-    background: url("/assets/footer-bg.png");
+    background: url("./assets/footer-bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
